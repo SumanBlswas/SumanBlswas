@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javscript, MERN ,TypeScript, HTML, CSS etc.**
 
-- 📫 How to reach me **sumanmanner@gmail.com**
+<!-- - 📫 How to reach me **sumanmanner@gmail.com** -->
 
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
