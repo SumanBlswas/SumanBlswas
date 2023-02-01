@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suman-biswas-158022248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-biswas-158022248" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suman-biswas-158022248" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suman-biswas-158022248"/></a>
 </p>
 
 # 💻 Tech Stack:
