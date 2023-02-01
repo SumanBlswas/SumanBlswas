@@ -31,7 +31,6 @@
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-<!-- | 1 |  [Travel Hut](https://travel-hut-by-suman.netlify.app/)| HTML, CSS and JavaScript | `No`|  Individual| 4 |[Travelocity](https://www.travelocity.com/)| -->
 | 1 |  [Elite Store](https://elite-store-group.netlify.app/)| HTML, CSS and JavaScript| `Yes` | Team member|   4 |[Dermstore](https://www.dermstore.com/)| 
 | 2 |  [Pyara Piizza](https://pyara-piizza.netlify.app/)| React, Chakra & React-Router-Dom | `No`|  Individual| 4 |[Domino's](https://www.dominos.co.in/)|
 
