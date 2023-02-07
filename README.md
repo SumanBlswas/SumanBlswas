@@ -20,7 +20,6 @@
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suman-biswas-158022248)
 
 # 💻 Tech Stack:
@@ -54,3 +53,4 @@
 </p>
 https://linkedin.com/in/suman-biswas-158022248 -->
 <!-- | 1 |  [Travel Hut](https://travel-hut-by-suman.netlify.app/)| HTML, CSS and JavaScript | `No`|  Individual| 4 |[Travelocity](https://www.travelocity.com/)| -->
+<!-- <p align="left"> -->
