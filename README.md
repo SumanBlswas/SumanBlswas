@@ -17,7 +17,7 @@
 
 <!-- - 📫 How to reach me **sumanmanner@gmail.com** -->
 
-- 🪶 My PortFolio is https://sumanblswas.github.io/
+- 🪶 My PortFolio is <a href="https://sumanblswas.github.io/">My PortFolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
