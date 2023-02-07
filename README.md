@@ -19,7 +19,7 @@
 
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
-<a href="/sumanblswas"></a>
+<a href="/sumanblswas">linkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
