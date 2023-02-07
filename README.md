@@ -20,6 +20,7 @@
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suman-biswas-158022248)
 
 # 💻 Tech Stack:
