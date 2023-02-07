@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeSrcipt**
 
-- 👨‍💻 All of my projects are available at [https://sumanblswas.github.io/](https://sumanblswas.github.io/)
+- 👨‍💻 My linkedIn profile [LinkedIn](https://linkedin.com/in/suman-biswas-158022248)
 
 - 💬 Ask me about **Javscript, MERN ,TypeScript, HTML, CSS etc.**
 
