@@ -1,7 +1,3 @@
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suman-biswas-158022248/)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+from+Suman+Biswas!;A+Passionate+Full+Stack+Web-Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=24&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -24,10 +20,10 @@
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/suman-biswas-158022248" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suman-biswas-158022248"/></a>
-</p> -->
+</p>
 
 
 # 💻 Tech Stack:
