@@ -19,7 +19,7 @@
 
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
-a[href="/sumanblswas"]
+<a href="https://linkedin.com/in/suman-biswas-158022248" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suman-biswas-158022248"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
