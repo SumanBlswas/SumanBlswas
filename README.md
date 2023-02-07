@@ -17,7 +17,7 @@
 
 <!-- - 📫 How to reach me **sumanmanner@gmail.com** -->
 
-- My linkedIn is https://linkedin.com/in/suman-biswas-158022248
+- 🔍 My linkedIn is https://linkedin.com/in/suman-biswas-158022248
 
 - 🪶 My PortFolio is https://sumanblswas.github.io/
 
