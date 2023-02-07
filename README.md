@@ -21,9 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/suman-biswas-158022248" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suman-biswas-158022248"/></a>
-</p>
-https://linkedin.com/in/suman-biswas-158022248 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suman-biswas-158022248)
 
 # 💻 Tech Stack:
@@ -33,7 +30,6 @@ https://linkedin.com/in/suman-biswas-158022248 -->
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-<!-- | 1 |  [Travel Hut](https://travel-hut-by-suman.netlify.app/)| HTML, CSS and JavaScript | `No`|  Individual| 4 |[Travelocity](https://www.travelocity.com/)| -->
 | 1 |  [Elite Store](https://elite-store-group.netlify.app/)| HTML, CSS and JavaScript| `Yes` | Team member|   4 |[Dermstore](https://www.dermstore.com/)| 
 | 2 |  [Pyara Piizza](https://pyara-piizza.netlify.app/)| React, Chakra & React-Router-Dom | `No`|  Individual| 4 |[Domino's](https://www.dominos.co.in/)|
 
@@ -52,3 +48,9 @@ https://linkedin.com/in/suman-biswas-158022248 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [![](https://visitcount.itsvg.in/api?id=SumanBlswas&icon=7&color=10)](https://visitcount.itsvg.in)
 <h3 align="center">Thanks for visiting! :blush: </h3>
+
+
+<!-- <a href="https://linkedin.com/in/suman-biswas-158022248" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suman-biswas-158022248"/></a>
+</p>
+https://linkedin.com/in/suman-biswas-158022248 -->
+<!-- | 1 |  [Travel Hut](https://travel-hut-by-suman.netlify.app/)| HTML, CSS and JavaScript | `No`|  Individual| 4 |[Travelocity](https://www.travelocity.com/)| -->
