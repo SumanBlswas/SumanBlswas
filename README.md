@@ -8,7 +8,8 @@
 
 
 <!-- - 🔭 I’m currently studying in **Masai** -->
-
+- 🔭 Hi, I am **Suman Biswas**
+  
 - 🌱 I’m currently learning **TypeSrcipt**
 
 - 👨‍💻 My linkedIn profile [LinkedIn](https://linkedin.com/in/suman-biswas-158022248)
