@@ -36,8 +36,8 @@
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
 | 1 |  [Elite Store](https://elite-store-group.netlify.app/)| HTML, CSS and JavaScript| `Yes` | Team member|   4 |[Dermstore](https://www.dermstore.com/)| 
 | 2 |  [Pyara Piizza](https://pyara-piizza.netlify.app/)| React, Chakra & React-Router-Dom | `No`|  Individual| 4 |[Domino's](https://www.dominos.co.in/)|
-| 3 |  [Koolz](https://koolz.vercel.app/)| React, Redux, Chakra, Typescript | `Yes`|  Team member| 4 |[Koovs](https://www.koovs.com/)|
-| 4 |  [StyloZone](https://frontend-nu-hazel-89.vercel.app/)| React, Redux, Chakra & React-Router-Dom | `Yes`|  Team Leader| 4 |[Limeroad](https://www.limeroad.com/)|
+| 3 |  [Koolz](https://koolz.vercel.app/)| React, Redux, Chakra, Typescript, Node, Express, MongoDB  | `Yes`|  Team member| 4 |[Koovs](https://www.koovs.com/)|
+| 4 |  [StyloZone](https://frontend-nu-hazel-89.vercel.app/)| React, Redux, Chakra, Node, Express and MongoDB | `Yes`|  Team Leader| 4 |[Limeroad](https://www.limeroad.com/)|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SumanBlswas&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
