@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **BOGO**
+<!-- - 🔭 I’m currently studying in **Masai** -->
 
 - 🌱 I’m currently learning **TypeSrcipt**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javscript, MERN ,TypeScript, HTML, CSS etc.**
 
-<!-- - 📫 How to reach me **sumanmanner@gmail.com** -->
+- 📫 How to reach me **sumanmanner@gmail.com**
 
 - 🪶 My PortFolio is <a href="https://sumanblswas.github.io/">My PortFolio</a>
 
